@@ -8,10 +8,10 @@ Each task demonstrates practical applications of machine learning, natural langu
 
 ## 📘 Tasks
 
-### ✅ Task 1: Fine-tuning GPT-2 on Krishna-Inspired Text.
+### ✅ Task 1: Fine-tuning GPT-2 on Krishna-Inspired Text
 
 - 🔗 [View Notebook](Task_1/Prodigy_AI_Internship_Task_1_CLEANED.ipynb)
-- ✨ Description: In this task, I fine-tuned a GPT-2 language model on a custom dataset consisting of Krishna-themed creative writing. The goal was to generate context-aware spiritual text with GPT-2.
+- ✨ Description: Fine-tuned a GPT-2 language model on a custom dataset of Krishna-themed creative writing to generate spiritual, context-aware text using Hugging Face's Transformers library.
 
 ---
 
@@ -22,14 +22,21 @@ Each task demonstrates practical applications of machine learning, natural langu
 
 ---
 
+### ✅ Task 3: Text Generation using Markov Chains
+
+- 🔗 [View Notebook](Task_3/Prodigy_AI_Internship_Task_3_CLEANED.ipynb)
+- ✨ Description: Implemented a simple text generation algorithm using **Markov chains**. The model learns word sequences from sample text and generates new sentences that mimic the training style.
+
+---
+
 ## 🔧 Tech Stack
 
 - Python 3
 - Google Colab
 - scikit-learn
-- Transformers (Hugging Face)
-- NLP Techniques (Tokenization, Vectorization)
-- Image Generation Models (DALL-E,Stable Diffusion)
+- Hugging Face Transformers
+- Markov Chains for NLP
+- Machine Learning and NLP techniques
 
 ---
 
@@ -40,4 +47,3 @@ I’m an enthusiastic AI Developer, currently pursuing B.Tech and exploring real
 ---
 
 > ⭐ Feel free to explore, give feedback, or suggest improvements!
-
