@@ -53,7 +53,7 @@ Each task showcases practical applications of machine learning, natural language
 ## 🧑‍💻 Intern: Thejo Karthikeya
 
 I’m an enthusiastic AI Developer, currently pursuing B.Tech and exploring practical AI applications through this internship.  
-Let’s connect on [LinkedIn](https://www.linkedin.com) or explore more of my projects!
+Currently doing a mini project named - SCRIPTURA using Artificial Intelligence and Machine Learning.
 
 ---
 
